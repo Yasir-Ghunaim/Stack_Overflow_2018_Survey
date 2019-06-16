@@ -5,7 +5,7 @@
 4. [Licensing](#licensing)
 
 ## Installation
-The code uses Python version 3 and libraries from Anaconda. Other than than, no installation should be required.
+The code uses Python version 3 and libraries from Anaconda.
 
 ## Project Motivation
 In this project, I explored couple of interesting questions based on Stack Overflow 2018 sruvery such as:
